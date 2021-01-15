@@ -1,1 +1,2 @@
-# Portfolio-
+# Responsive Portfolio
+For this project we had to ensure the web application was responsive. Meaning the content would look normal/good in all screen sizes regardless of device. Each of the three links needed to work and had to be approved. Each page was validated through a HTML validation service to make sure each page had the correct HTML. A lot of this project included using the Bootstrap's grid ssystem which consists of columns, rows, and containers. The grid system was a huge factor when it came to the layout and styling of the pages. The application needed to be deployable and all links must be active and working.
